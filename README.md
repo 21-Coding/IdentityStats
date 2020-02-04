@@ -5,7 +5,7 @@
 
 ### Description
 
-This application allows the user to identify an individual by reverse phone lookup usong the Ekata API (https://ekata.com/developer/documentation/api-overview/).
+This application allows the user to identify an individual by reverse phone lookup using the Ekata API (https://ekata.com/developer/documentation/api-overview/).
 
 
 ### Setup/Installation Requirements
