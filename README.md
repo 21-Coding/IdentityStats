@@ -9,6 +9,9 @@ This application allows the user to identify an individual by reverse phone look
 
 
 ### Setup/Installation Requirements
+
+##### Obtain API Key: click here https://ekata.com/address-validation-api-trial/?plan_param=address_validation&utm_campaign=dev-center and enter your email in the upper right hand corner to receive your API key from Ekata.
+
 ##### Zip:
 ![this is a photo of a step by step process to download this directory as a zip file](https://lh3.googleusercontent.com/Pg6oODU_Img63CYp_9o5a3pSDCHpcp_g9HouHiOeTiJyHu4oHIX5iVy4uRuruJjrl9X6VKZefJg=s1000 "read")
  1. Click the link shown in the above photo and allow your browser some time to download the file.
